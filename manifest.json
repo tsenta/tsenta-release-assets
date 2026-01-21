@@ -1,6 +1,23 @@
 {
-  "latest": "3.1.9",
+  "latest": "3.2.0",
   "versions": [
+    {
+      "version": "3.2.0",
+      "minAppVersion": "3.1.8",
+      "buildTime": "2026-01-21T02:26:13.082Z",
+      "chunks": {
+        "index": {
+          "url": "https://github.com/tsenta/tsenta-release-assets/releases/download/v3.2.0/index.jsc",
+          "sha256": "11ce09f28c8fd5f55c869979f9eb670183a4fa7903a8a7b885faf87ac58c8581",
+          "size": 6227096
+        },
+        "worker-core": {
+          "url": "https://github.com/tsenta/tsenta-release-assets/releases/download/v3.2.0/worker-core.jsc",
+          "sha256": "f6a126e8dd9e1b6506b341753c7e4c25caaead6f3c2e58452dac6b004a8ef810",
+          "size": 27618504
+        }
+      }
+    },
     {
       "version": "3.1.9",
       "minAppVersion": "3.1.8",
